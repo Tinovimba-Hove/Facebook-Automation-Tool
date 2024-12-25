@@ -15,7 +15,7 @@ This project automates various interactions with Facebook using Python and Selen
 - **Automated Posting**: Schedule and automate group posts for seamless interactions with multiple Facebook communities.
 
 ## Demo
-To see the Facebook Automation tool in action, watch the demo video [here](#) (https://drive.google.com/file/d/1tSNOllgvLaYez7emClPeInFQs2vhjnA_/view?usp=sharing). This video showcases the automated login process, group joining, member data scraping, and personalized messaging features.
+To see the Facebook Automation tool in action, watch the demo video [here](https://drive.google.com/file/d/1tSNOllgvLaYez7emClPeInFQs2vhjnA_/view?usp=sharing). This video showcases the automated login process, group joining, member data scraping, and personalized messaging features.
 
 ## Requirements
 
